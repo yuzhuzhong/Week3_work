@@ -1,4 +1,5 @@
 1.GettingAndCleaningData
+
 Repository for Cousera: https://class.coursera.org/getdata-008
 
 run_analysis.R should do the following:
